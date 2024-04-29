@@ -1,5 +1,5 @@
 # Table of contents
 
-* [yo](hell.md)
+* [yo](README.md)
 * [merm](merm.md)
 * [mermaid](mermaid.md)
