@@ -1,5 +1,5 @@
 # Table of contents
 
-* [example](README.md)
+* [yo](README.md)
 * [merm](merm.md)
 * [mermaid](mermaid.md)
