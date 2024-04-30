@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 321.7466517857142 111.07700892857144" width="643.4933035714284" height="222.1540178571429" filter="invert(93%) hue-rotate(180deg)">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://excalidraw.com/Assistant-Regular.woff2");
+      }
+    </style>
+    
+  </defs>
+  <rect x="0" y="0" width="321.7466517857142" height="111.07700892857144" fill="#ffffff"></rect><g stroke-linecap="round" transform="translate(10 10) rotate(0 150.8733258928571 45.53850446428572)"><path d="M22.77 0 C93.37 0.69, 161.33 2.55, 278.98 0 M22.77 0 C76.57 -0.12, 130.55 0.08, 278.98 0 M278.98 0 C294.78 -1.35, 301.13 6.96, 301.75 22.77 M278.98 0 C295.79 0.58, 303.86 9.81, 301.75 22.77 M301.75 22.77 C300.25 37.14, 303.47 49.78, 301.75 68.31 M301.75 22.77 C303.03 34.92, 301.19 48.06, 301.75 68.31 M301.75 68.31 C301.67 83.74, 295.07 91.04, 278.98 91.08 M301.75 68.31 C299.74 82.3, 296.24 93.13, 278.98 91.08 M278.98 91.08 C187.62 90.13, 94.43 91.19, 22.77 91.08 M278.98 91.08 C211.37 92.11, 144.21 93.27, 22.77 91.08 M22.77 91.08 C6.65 92.11, -1.68 85.04, 0 68.31 M22.77 91.08 C5.49 90.55, 2.08 81.91, 0 68.31 M0 68.31 C-1.74 51.2, -1.85 34.05, 0 22.77 M0 68.31 C0.58 56.69, 0.15 44.66, 0 22.77 M0 22.77 C-0.39 8.25, 6.58 0.16, 22.77 0 M0 22.77 C0.64 6.93, 9.19 1.83, 22.77 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(88.78335244314985 33.03850446428572) rotate(0 72.08997344970703 22.5)"><text x="72.08997344970703" y="31.536" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Space 0</text></g></svg>
