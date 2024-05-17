@@ -1,8 +1,7 @@
 # Table of contents
 
-* [yo](README.md)
-* [merm](merm.md)
-* [mermaid](mermaid.md)
-* [Page 1](page-1.md)
-* [Page 2](page-2.md)
-* [Page 3](page-3.md)
+* [Main Page](README.md)
+  * [Sub Page 1](main-page/sub-page-1.md)
+  * [Sub Page 2](main-page/sub-page-2.md)
+  * [Sub Page 3](main-page/sub-page-3.md)
+  * [Sub Page 4](main-page/sub-page-4.md)
