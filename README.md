@@ -14,10 +14,10 @@ layout:
 
 # Main Page
 
-[link to page 1](main-page/sub-page-1.md)
+[link to page 1](main-page/a-nice-page.md)
 
 
 
-{% content-ref url="main-page/sub-page-1.md" %}
-[sub-page-1.md](main-page/sub-page-1.md)
+{% content-ref url="main-page/a-nice-page.md" %}
+[a-nice-page.md](main-page/a-nice-page.md)
 {% endcontent-ref %}
