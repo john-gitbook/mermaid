@@ -11,7 +11,6 @@
   * [Sub Page 2](copy-of-main-page/sub-page-2.md)
   * [Sub Page 3](copy-of-main-page/sub-page-3.md)
 * [Copy of Copy of Main Page](copy-of-copy-of-main-page/README.md)
-  * [Sub Page 1](copy-of-copy-of-main-page/sub-page-1.md)
   * [Sub Page 2](copy-of-copy-of-main-page/sub-page-2.md)
   * [Sub Page 3](copy-of-copy-of-main-page/sub-page-3.md)
   * [Sub Page 4](copy-of-copy-of-main-page/sub-page-4.md)
