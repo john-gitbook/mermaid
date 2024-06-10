@@ -18,6 +18,20 @@ layout:
 
 
 
+
+
+### Input:
+
+```
+{% raw %}
+{% if Language == 'fr' %}
+Salut!
+{% else %}
+Hello!
+{% endif %}
+{% endraw %}
+```
+
 {% content-ref url="main-page/a-nice-page.md" %}
 [a-nice-page.md](main-page/a-nice-page.md)
 {% endcontent-ref %}
