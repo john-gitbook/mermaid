@@ -1,5 +1,5 @@
 # Page 1
 
-<figure><img src=".gitbook/assets/CleanShot 2024-06-10 at 16.17.46@2x.png" alt=""><figcaption></figcaption></figure>
+<table data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th><select></select></th><th data-type="rating" data-max="5"></th><th data-hidden></th><th data-hidden></th><th data-hidden></th><th data-hidden data-type="users" data-multiple></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-type="checkbox"></th></tr></thead><tbody><tr><td>hello</td><td></td><td>4</td><td></td><td></td><td></td><td></td><td><a href=".gitbook/assets/darkmode.svg">darkmode.svg</a></td><td><a href="mermaid.md">mermaid.md</a></td><td>false</td></tr><tr><td></td><td></td><td>null</td><td></td><td></td><td></td><td></td><td></td><td></td><td>false</td></tr><tr><td></td><td></td><td>null</td><td></td><td></td><td></td><td></td><td></td><td></td><td>false</td></tr><tr><td></td><td></td><td>null</td><td></td><td></td><td></td><td></td><td></td><td></td><td>false</td></tr></tbody></table>
 
-<figure><img src="https://github.com/pinpoint-apm/pinpoint-apm.github.io/blob/b8b2dd8f06b8f66c4632a362f871c9924ab3f742/.gitbook/assets/error_analysis_01.png" alt=""><figcaption></figcaption></figure>
+##
