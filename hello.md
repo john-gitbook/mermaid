@@ -1,3 +1,5 @@
+```mermaid
+
 flowchart TD
 %% Nodes
     A("fab:fa-youtube <a rel="noopener" href="https://www.youtube.com/watch?v=T5Zthq-QR2A&amp" target="_blank">Starter Guide</a>")
@@ -22,3 +24,4 @@ flowchart TD
     style I color:#FFFFFF, stroke:#2962FF, fill:#2962FF
 
 %% You can add notes with two "%" signs in a row!
+```
