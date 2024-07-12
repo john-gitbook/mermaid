@@ -1,6 +1,18 @@
 # Table of contents
 
-* [Hi](README.md)
-* [merm](merm.md)
-* [hello](hello.md)
-
+* [Main Page](README.md)
+  * [A nice page](readme/a-nice-page.md)
+  * [Sub Page 2](readme/sub-page-2.md)
+  * [Sub Page 3](readme/sub-page-3.md)
+  * [Sub Page 4](readme/sub-page-4/README.md)
+    * [Sub Page 4](readme/sub-page-4/sub-page-4.md)
+* [Copy of Main Page](copy-of-main-page/README.md)
+  * [Sub Page 1](copy-of-main-page/sub-page-1.md)
+  * [Sub Page 2](copy-of-main-page/sub-page-2.md)
+  * [Sub Page 3](copy-of-main-page/sub-page-3.md)
+* [Copy of Copy of Main Page](copy-of-copy-of-main-page/README.md)
+  * [Sub Page 2](copy-of-copy-of-main-page/sub-page-2.md)
+  * [Sub Page 3](copy-of-copy-of-main-page/sub-page-3.md)
+  * [Sub Page 4](copy-of-copy-of-main-page/sub-page-4.md)
+  * [Hello World](copy-of-copy-of-main-page/hello-world.md)
+* [Page 1](page-1.md)
